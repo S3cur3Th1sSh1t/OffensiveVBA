@@ -1,0 +1,15 @@
+[submodule "src/VBA-RunPE"]
+	path = src/VBA-RunPE
+	url = https://github.com/itm4n/VBA-RunPE.git
+[submodule "src/GadgetToJScript"]
+	path = src/GadgetToJScript
+	url = https://github.com/med0x2e/GadgetToJScript
+[submodule "obfuscators/VBad"]
+	path = obfuscators/VBad
+	url = https://github.com/Pepitoh/VBad.git
+[submodule "obfuscators/wePWNise"]
+	path = obfuscators/wePWNise
+	url = https://github.com/FSecureLABS/wePWNise.git
+[submodule "obfuscators/VisualBasicObfuscator"]
+	path = obfuscators/VisualBasicObfuscator
+	url = https://github.com/mgeeky/VisualBasicObfuscator.git

@@ -1,6 +1,6 @@
 # OffensiveVBA
 
-In preparation for a VBS AV Evasion Stream/Video I was doing some research for Office Macro code execution methods.
+In preparation for a VBS AV Evasion Stream/Video I was doing some research for Office Macro code execution methods and evasion techniques.
 
 The list got longer and longer and I found no central place for offensive VBA templates - so this repo can be used for such.
 

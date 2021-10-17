@@ -24,17 +24,27 @@ The list got longer and longer and I found no central place for offensive VBA te
 | [AMSIBypass_AmsiScanBuffer_Patch.vba](../master/src/AMSIBypass_AmsiScanBuffer_Patch.vba) | [rmdavy's](https://github.com/rmdavy) AMSI Bypass to patch AmsiScanBuffer using ordinal values for a signature bypass |
 | [AMSIBypass_Heap.vba](../master/src/AMSIBypass_Heap.vba) | [rmdavy's](https://github.com/rmdavy) [HeapsOfFun](https://github.com/rmdavy/HeapsOfFun) repo copy  |
 | [AMSIbypasses.vba](../master/src/AMSIbypasses.vba) | [outflanknl's](https://github.com/outflanknl) [AMSI bypass blog](https://outflank.nl/blog/2019/04/17/bypassing-amsi-for-vba/) |
+| [COMHijack_DLL_Load.vba](../master/src/COMHijack_DLL_Load.vba) | Load DLL via COM Hijacking |
+| [COM_Process_create.vba](../master/src/COM_Process_create.vba) | Create process via COM object |
+| [Download_Autostart.vba](../master/src/Download_Autostart.vba) | Download a file from a remote webserver and put it into the StartUp folder |
+| [Download_Autostart_WinAPI.vba](../master/src/Download_Autostart_WinAPI.vba) | Download a file from a remote webserver via URLDownloadtoFileA and put it into the StartUp folder |
+| [Dropper_Autostart.vba](../master/src/Dropper_Autostart.vba) | Drop batch file into the StartUp folder |
+| [Dropper_Embeded_msf.vba](../master/src/Dropper_Embeded_msf.vba) | MSF generated dropper template |
+| [Registry_Persist_wmi.vba](../master/src/Registry_Persist_wmi.vba) | Create StartUp registry key for persistence via WMI |
+| [Registry_Persist_wscript.vba](../master/src/Registry_Persist_wscript.vba) | Create StartUp registry key for persistence via wscript object |
+| [ScheduledTask_Create.vba](../master/src/ScheduledTask_Create.vba) | Create and start sheduled task for code execution/persistence |
+| [XMLDOM_Load_XSL_Process_create.vba](../master/src/XMLDOM_Load_XSL_Process_create.vba) | Load XSL from a remote webserver to execute code |
+| [regsvr32_sct_DownloadExecute.vba](../master/src/regsvr32_sct_DownloadExecute.vba) | Execute regsvr32 to download a remote webservers SCT file for code execution |
+
 
 ## Obfuscators / Payload generators
 
 1) [VBad](https://github.com/Pepitoh/VBad)
 2) [wePWNise](https://github.com/FSecureLABS/wePWNise)
-3) [wePWNise](https://github.com/FSecureLABS/wePWNise)
-4) [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
-5) [macro_pack](https://github.com/sevagas/macro_pack)
-6) [shellcode2vbscript.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/shellcode2vbscript.py)
-7) [EvilClippy](https://github.com/outflanknl/EvilClippy)
-8) [OfficePurge](https://github.com/mandiant/OfficePurge)
-9) [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
-10) [VBS-Obfuscator-in-Python](https://github.com/kkar/VBS-Obfuscator-in-Python)
-
+3) [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
+4) [macro_pack](https://github.com/sevagas/macro_pack)
+5) [shellcode2vbscript.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/shellcode2vbscript.py)
+6) [EvilClippy](https://github.com/outflanknl/EvilClippy)
+7) [OfficePurge](https://github.com/mandiant/OfficePurge)
+8) [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
+9) [VBS-Obfuscator-in-Python](https://github.com/kkar/VBS-Obfuscator-in-Python)

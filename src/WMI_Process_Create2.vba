@@ -1,5 +1,5 @@
 Sub AutoOpen()
-
+' Using this technique the new process will be spawned under “wmiprvse.exe” instead of the Office process.
 Const SW_NORMAL = 1
 strComputer = "."
 strCommand = "Notepad.exe" 

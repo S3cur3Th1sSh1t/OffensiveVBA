@@ -4,7 +4,7 @@ In preparation for a VBS AV Evasion Stream/Video I was doing some research for O
 
 The list got longer and longer and I found no central place for offensive VBA templates - so this repo can be used for such.
 
-## Examples in this repo
+## Templates in this repo
 
 | File | Description |
 | ---  | --- |

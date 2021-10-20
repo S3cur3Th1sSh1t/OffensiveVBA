@@ -63,9 +63,10 @@ Shellcode to VBScript conversion:
 https://github.com/DidierStevens/DidierStevensSuite/blob/master/shellcode2vbscript.py
 
 Bypass AMSI in VBA:
-https://outflank.nl/blog/2019/04/17/bypassing-amsi-for-vba/usercontent.com/27858067/138140466-5bcac24c-e3db-47f6-a38b-6eb5d7605fa0.png)
+https://outflank.nl/blog/2019/04/17/bypassing-amsi-for-vba/
 
-
+VBA purging:
+https://www.mandiant.com/resources/purgalicious-vba-macro-obfuscation-with-vba-purging
 
 
 

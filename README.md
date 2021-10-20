@@ -32,13 +32,13 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [Download_Autostart.vba](../master/src/Download_Autostart.vba) | Download a file from a remote webserver and put it into the StartUp folder |
 | [Download_Autostart_WinAPI.vba](../master/src/Download_Autostart_WinAPI.vba) | Download a file from a remote webserver via URLDownloadtoFileA and put it into the StartUp folder |
 | [Dropper_Autostart.vba](../master/src/Dropper_Autostart.vba) | Drop batch file into the StartUp folder |
-| [Dropper_Embeded_msf.vba](../master/src/Dropper_Embeded_msf.vba) | MSF generated dropper template |
 | [Registry_Persist_wmi.vba](../master/src/Registry_Persist_wmi.vba) | Create StartUp registry key for persistence via WMI |
 | [Registry_Persist_wscript.vba](../master/src/Registry_Persist_wscript.vba) | Create StartUp registry key for persistence via wscript object |
 | [ScheduledTask_Create.vba](../master/src/ScheduledTask_Create.vba) | Create and start sheduled task for code execution/persistence |
 | [XMLDOM_Load_XSL_Process_create.vba](../master/src/XMLDOM_Load_XSL_Process_create.vba) | Load XSL from a remote webserver to execute code |
 | [regsvr32_sct_DownloadExecute.vba](../master/src/regsvr32_sct_DownloadExecute.vba) | Execute regsvr32 to download a remote webservers SCT file for code execution |
 | [BlockETW.vba](../master/src/BlockETW.vba) | Patch EtwEventWrite in ntdll.dll to block ETW data collection |
+| [BlockETW_COMPLUS_ETWEnabled_ENV.vba](../master/src/BlockETW_COMPLUS_ETWEnabled_ENV.vba) | Block ETW data collection by setting the environment variable COMPLUS_ETWEnabled to 0, credit to [@_xpn_](https://twitter.com/_xpn_) |
 | [ShellWindows_Process_create.vba](../master/src/ShellWindows_Process_create.vba) | ShellWindows Process create to get explorer.exe as parent process |
 | [AES.vba](../master/src/AES.vba) | An example to use AES encryption/decryption in VBA from [Here](https://github.com/susam/aes.vbs/blob/a0cb5f9ffbd90b435622f5cfdb84264e1a319bf2/aes.vbs) |
 

@@ -41,7 +41,7 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [BlockETW_COMPLUS_ETWEnabled_ENV.vba](../master/src/BlockETW_COMPLUS_ETWEnabled_ENV.vba) | Block ETW data collection by setting the environment variable COMPLUS_ETWEnabled to 0, credit to [@_xpn_](https://twitter.com/_xpn_) |
 | [ShellWindows_Process_create.vba](../master/src/ShellWindows_Process_create.vba) | ShellWindows Process create to get explorer.exe as parent process |
 | [AES.vba](../master/src/AES.vba) | An example to use AES encryption/decryption in VBA from [Here](https://github.com/susam/aes.vbs/blob/a0cb5f9ffbd90b435622f5cfdb84264e1a319bf2/aes.vbs) |
-
+| [Dropper_Executable_Autostart.vba](../master/src/Dropper_Executable_Autostart.vba) | Get executable bytes from VBA and drop into Autostart - no download in this case |
 
 
 ## Obfuscators / Payload generators

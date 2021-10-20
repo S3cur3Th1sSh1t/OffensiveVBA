@@ -43,6 +43,13 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [AES.vba](../master/src/AES.vba) | An example to use AES encryption/decryption in VBA from [Here](https://github.com/susam/aes.vbs/blob/a0cb5f9ffbd90b435622f5cfdb84264e1a319bf2/aes.vbs) |
 | [Dropper_Executable_Autostart.vba](../master/src/Dropper_Executable_Autostart.vba) | Get executable bytes from VBA and drop into Autostart - no download in this case |
 
+## Missing - ToDos
+| File | Description |
+| ---  | --- |
+| [Unhooker.vba](../master/src/Unhooker.vba) | Unhook API's in memory to get rid of hooks |
+| [Syscalls.vba](../master/src/Syscalls.vba) | Syscall usage - fresh from disk or Syswhispers like |
+| [Manymore.vba](../master/src/Manymore.vba) | If you have any more ideas feel free to contribute |
+
 
 ## Obfuscators / Payload generators
 

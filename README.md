@@ -4,6 +4,8 @@ In preparation for a VBS AV Evasion Stream/Video I was doing some research for O
 
 The list got longer and longer and I found no central place for offensive VBA templates - so this repo can be used for such.
 
+Most of the templates in this repo were already published somewhere. I just copy pasted most templates from ms-docs sites, blog posts or from other tools. 
+
 ## Templates in this repo
 
 | File | Description |

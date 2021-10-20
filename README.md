@@ -37,6 +37,9 @@ The list got longer and longer and I found no central place for offensive VBA te
 | [XMLDOM_Load_XSL_Process_create.vba](../master/src/XMLDOM_Load_XSL_Process_create.vba) | Load XSL from a remote webserver to execute code |
 | [regsvr32_sct_DownloadExecute.vba](../master/src/regsvr32_sct_DownloadExecute.vba) | Execute regsvr32 to download a remote webservers SCT file for code execution |
 | [BlockETW.vba](../master/src/BlockETW.vba) | Patch EtwEventWrite in ntdll.dll to block ETW data collection |
+| [ShellWindows_Process_create.vba](../master/src/ShellWindows_Process_create.vba) | ShellWindows Process create to get explorer.exe as parent process |
+| [AES.vba](../master/src/AES.vba) | An example to use AES encryption/decryption in VBA from [Here](https://github.com/susam/aes.vbs/blob/a0cb5f9ffbd90b435622f5cfdb84264e1a319bf2/aes.vbs) |
+
 
 
 ## Obfuscators / Payload generators
@@ -50,3 +53,19 @@ The list got longer and longer and I found no central place for offensive VBA te
 7) [OfficePurge](https://github.com/mandiant/OfficePurge)
 8) [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
 9) [VBS-Obfuscator-in-Python](https://github.com/kkar/VBS-Obfuscator-in-Python)
+
+## Credits / usefull resources
+
+ASR bypass:
+http://blog.sevagas.com/IMG/pdf/bypass_windows_defender_attack_surface_reduction.pdf
+
+Shellcode to VBScript conversion:
+https://github.com/DidierStevens/DidierStevensSuite/blob/master/shellcode2vbscript.py
+
+Bypass AMSI in VBA:
+https://outflank.nl/blog/2019/04/17/bypassing-amsi-for-vba/usercontent.com/27858067/138140466-5bcac24c-e3db-47f6-a38b-6eb5d7605fa0.png)
+
+
+
+
+

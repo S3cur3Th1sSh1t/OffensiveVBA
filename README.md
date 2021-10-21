@@ -44,6 +44,13 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [Dropper_Executable_Autostart.vba](../master/src/Dropper_Executable_Autostart.vba) | Get executable bytes from VBA and drop into Autostart - no download in this case |
 | [MarauderDrop.vba](../master/src/MarauderDrop.vba) | Drop a COM registered .NET DLL into temp, import the function and execute code - in this case loads a remote C# binary from a webserver to memory and executes it |
 
+## Missing - ToDos
+| File | Description |
+| ---  | --- |
+| [Unhooker.vba](../master/src/Unhooker.vba) | Unhook API's in memory to get rid of hooks |
+| [Syscalls.vba](../master/src/Syscalls.vba) | Syscall usage - fresh from disk or Syswhispers like |
+| [Manymore.vba](../master/src/Manymore.vba) | If you have any more ideas feel free to contribute |
+
 
 ## Obfuscators / Payload generators
 

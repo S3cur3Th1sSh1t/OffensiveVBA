@@ -59,13 +59,13 @@ Most of the templates in this repo were already published somewhere. I just copy
 
 1) [VBad](https://github.com/Pepitoh/VBad)
 2) [wePWNise](https://github.com/FSecureLABS/wePWNise)
-3) [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
+3) [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master) - needs some modification as it doesn't split up lines and is therefore not usable for office document macros
 4) [macro_pack](https://github.com/sevagas/macro_pack)
 5) [shellcode2vbscript.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/shellcode2vbscript.py)
 6) [EvilClippy](https://github.com/outflanknl/EvilClippy)
 7) [OfficePurge](https://github.com/mandiant/OfficePurge)
 8) [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
-9) [VBS-Obfuscator-in-Python](https://github.com/kkar/VBS-Obfuscator-in-Python)
+9) [VBS-Obfuscator-in-Python](https://github.com/kkar/VBS-Obfuscator-in-Python) - - needs some modification as it doesn't split up lines and is therefore not usable for office document macros
 
 ## Credits / usefull resources
 

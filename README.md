@@ -2,7 +2,7 @@
 
 In preparation for a VBS AV Evasion Stream/Video I was doing some research for Office Macro code execution methods and evasion techniques.
 
-The list got longer and longer and I found no central place for offensive VBA templates - so this repo can be used for such.
+The list got longer and longer and I found no central place for offensive VBA templates - so this repo can be used for such. It is very far away from being complete. If you know any other cool technique or useful template feel free to contribute and create a pull request!
 
 Most of the templates in this repo were already published somewhere. I just copy pasted most templates from ms-docs sites, blog posts or from other tools. 
 
@@ -43,6 +43,8 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [AES.vba](../master/src/AES.vba) | An example to use AES encryption/decryption in VBA from [Here](https://github.com/susam/aes.vbs/blob/a0cb5f9ffbd90b435622f5cfdb84264e1a319bf2/aes.vbs) |
 | [Dropper_Executable_Autostart.vba](../master/src/Dropper_Executable_Autostart.vba) | Get executable bytes from VBA and drop into Autostart - no download in this case |
 | [MarauderDrop.vba](../master/src/MarauderDrop.vba) | Drop a COM registered .NET DLL into temp, import the function and execute code - in this case loads a remote C# binary from a webserver to memory and executes it |
+| [Dropper_Workfolders_lolbas_Execute.vba](../master/src/Dropper_Workfolders_lolbas_Execute.vba) | Drop an embedded executable into the TEMP directory and execute it using C:\windows\system32\Workfolders.exe as LOLBAS - credit to [@YoSignals](https://www.ctus.io/2021/04/12/exploading/) |
+
 
 ## Missing - ToDos
 | File | Description |

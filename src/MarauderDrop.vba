@@ -1,4 +1,6 @@
 ' This template needs to be split up into two modules as mentioned in the README
+' https://jfmaes-1.gitbook.io/emulate-like-a-champ-emulating-the-latest-buer-cam/lab-3-detailed-invoice
+' https://blog.nviso.eu/2021/04/27/i-solemnly-swear-i-am-up-to-no-good-introducing-the-marauders-map/
 
 ' First Module - COM enabled DLL Dropper:
 

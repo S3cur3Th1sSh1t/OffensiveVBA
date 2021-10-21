@@ -45,7 +45,6 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [MarauderDrop.vba](../master/src/MarauderDrop.vba) | Drop a COM registered .NET DLL into temp, import the function and execute code - in this case loads a remote C# binary from a webserver to memory and executes it |
 | [Dropper_Workfolders_lolbas_Execute.vba](../master/src/Dropper_Workfolders_lolbas_Execute.vba) | Drop an embedded executable into the TEMP directory and execute it using C:\windows\system32\Workfolders.exe as LOLBAS - credit to [@YoSignals](https://www.ctus.io/2021/04/12/exploading/) |
 
-
 ## Missing - ToDos
 | File | Description |
 | ---  | --- |

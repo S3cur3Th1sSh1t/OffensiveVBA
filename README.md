@@ -84,3 +84,5 @@ https://www.mandiant.com/resources/purgalicious-vba-macro-obfuscation-with-vba-p
 F-Secure VBA Evasion and detection post:
 https://blog.f-secure.com/dechaining-macros-and-evading-edr/
 
+One more F-Secure blog:
+https://labs.f-secure.com/archive/dll-tricks-with-vba-to-improve-offensive-macro-capability/

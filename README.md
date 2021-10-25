@@ -45,6 +45,7 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [MarauderDrop.vba](../master/src/MarauderDrop.vba) | Drop a COM registered .NET DLL into temp, import the function and execute code - in this case loads a remote C# binary from a webserver to memory and executes it - credit to [@Jean_Maes_1994](https://twitter.com/Jean_Maes_1994) for [MaraudersMap](https://github.com/NVISOsecurity/blogposts/tree/master/MaraudersMap) |
 | [Dropper_Workfolders_lolbas_Execute.vba](../master/src/Dropper_Workfolders_lolbas_Execute.vba) | Drop an embedded executable into the TEMP directory and execute it using C:\windows\system32\Workfolders.exe as LOLBAS - credit to [@YoSignals](https://www.ctus.io/2021/04/12/exploading/) |
 | [SandBoxEvasion](../master/src/SandBoxEvasion/) | Some SandBox Evasion templates |
+| [Evasion Dropper Autostart.vba](https://github.com/sbousseaden/OffensiveVBA/blob/main/src/Evasion_Dropper_Autostart.vba)| Drops a file to the Startup directory bypassing file write monitoring via renamed folder operation|
 
 
 ## Missing - ToDos

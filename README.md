@@ -47,7 +47,7 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [SandBoxEvasion](../master/src/SandBoxEvasion/) | Some SandBox Evasion templates |
 | [Evasion Dropper Autostart.vba](https://github.com/sbousseaden/OffensiveVBA/blob/main/src/Evasion_Dropper_Autostart.vba)| Drops a file to the Startup directory bypassing file write monitoring via renamed folder operation|
 |[Evasion MsiInstallProduct.vba](https://github.com/sbousseaden/OffensiveVBA/blob/main/src/Evasion%20MsiInstallProduct.vba)| Installs a remote MSI package using WindowsInstaller ActiveXObject avoiding spawning suspicious office child process, the msi installation will be executed as a child of the `MSIEXEC /V service`|
-
+|[StealNetNTLMv2.vba](https://github.com/sbousseaden/OffensiveVBA/blob/main/src/StealNetNTLMv2.vba)| Steal NetNTLMv2 Hash via share connection - credit to [https://book.hacktricks.xyz/windows/ntlm/places-to-steal-ntlm-creds](https://book.hacktricks.xyz/windows/ntlm/places-to-steal-ntlm-creds)|
 
 ## Missing - ToDos
 | File | Description |

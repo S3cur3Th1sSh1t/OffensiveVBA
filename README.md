@@ -48,6 +48,10 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [Evasion Dropper Autostart.vba](../master/src/Evasion_Dropper_Autostart.vba)| Drops a file to the Startup directory bypassing file write monitoring via renamed folder operation|
 |[Evasion MsiInstallProduct.vba](../master/src/Evasion%20MsiInstallProduct.vba)| Installs a remote MSI package using WindowsInstaller ActiveXObject avoiding spawning suspicious office child process, the msi installation will be executed as a child of the `MSIEXEC /V service`|
 |[StealNetNTLMv2.vba](../master/src/StealNetNTLMv2.vba)| Steal NetNTLMv2 Hash via share connection - credit to [https://book.hacktricks.xyz/windows/ntlm/places-to-steal-ntlm-creds](https://book.hacktricks.xyz/windows/ntlm/places-to-steal-ntlm-creds)|
+|[Parse-Outlook.vba](../master/src/Parse-Outlook.vba)| Parses Outlook for sensitive keywords and file extensions, and exfils them via email - credit to [JohnWoodman](https://github.com/JohnWoodman/VBA-Macro-Projects)|
+|[Reverse-Shell.vba](../master/src/Reverse-Shell.vba)| Reverse shell written entirely in VBA using Windows API calls - credit to [JohnWoodman](https://github.com/JohnWoodman/VBA-Macro-Projects)|
+
+
 
 ## Missing - ToDos
 | File | Description |

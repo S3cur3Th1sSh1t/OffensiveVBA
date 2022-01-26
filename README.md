@@ -20,8 +20,8 @@ Most of the templates in this repo were already published somewhere. I just copy
 | [WMI_Process_Create2.vba](./src/WMI_Process_Create2.vba) | Another WMI code execution example |
 | [WscriptShell_Exec.vba](./src/WscriptShell_Exec.vba) | Execute an OS command via WscriptShell object and Exec method |
 | [WscriptShell_run.vba](./src/WscriptShell_run.vba) | Execute an OS command via WscriptShell object and Run method |
-| [VBA-RunPE](./src/VBA-RunPE/) | [@itm4n's](https://twitter.com/itm4n) RunPE technique in VBA |
-| [GadgetToJScript](./src/GadgetToJScript/) | [med0x2e's](https://github.com/med0x2e) C# script for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA based scripts.  |
+| [VBA-RunPE](https://github.com/itm4n/VBA-RunPE/tree/master) | [@itm4n's](https://twitter.com/itm4n) RunPE technique in VBA |
+| [GadgetToJScript](https://github.com/med0x2e/GadgetToJScript/tree/master) | [med0x2e's](https://github.com/med0x2e) C# script for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA based scripts.  |
 | [PPID_Spoof.vba](./src/PPID_Spoof.vba) | [christophetd's](https://github.com/christophetd)  [spoofing-office-macro](https://github.com/christophetd/spoofing-office-macro) copy |
 | [AMSIBypass_AmsiScanBuffer_ordinal.vba](./src/AMSIBypass_AmsiScanBuffer_ordinal.vba) | [rmdavy's](https://github.com/rmdavy) AMSI Bypass to patch AmsiScanBuffer using ordinal values for a signature bypass |
 | [AMSIBypass_AmsiScanBuffer_Classic.vba](./src/AMSIBypass_AmsiScanBuffer_Classic.vba) | [rasta-mouse's](https://github.com/rasta-mouse) classic AmsiScanBuffer patch |
